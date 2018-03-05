@@ -1,0 +1,17 @@
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.deps.json
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.runtimeconfig.json
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.runtimeconfig.dev.json
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\bin\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.pdb
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.csprojResolveAssemblyReference.cache
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.AssemblyInfoInputs.cache
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.AssemblyInfo.cs
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.dll
+D:\Documentos\Documentos\projetos\TestesCarteirinhaVacinacao\obj\Debug\netcoreapp2.0\TestesCarteirinhaVacinacao.pdb
